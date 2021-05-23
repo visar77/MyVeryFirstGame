@@ -1,2 +1,2 @@
 # MyVeryFirstGame
-This was my very first "big" project
+This was my second "big" project
